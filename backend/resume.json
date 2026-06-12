@@ -1,0 +1,90 @@
+{
+  "name": "Your Name",
+  "email": "your.email@example.com",
+  "phone": "+91-XXXXXXXXXX",
+  "summary": "3rd-year Computer Science undergraduate specializing in AI/ML with hands-on experience in full-stack development, machine learning, and data analysis.",
+  "skills": [
+    "Python",
+    "JavaScript",
+    "TypeScript",
+    "SQL",
+    "C++",
+    "Java",
+    "HTML",
+    "CSS"
+  ],
+  "frameworks": [
+    "React",
+    "Next.js",
+    "FastAPI",
+    "Flask",
+    "Django",
+    "Node.js",
+    "Express",
+    "TailwindCSS"
+  ],
+  "tools": [
+    "Git",
+    "Docker",
+    "PostgreSQL",
+    "MongoDB",
+    "Redis",
+    "AWS",
+    "Linux",
+    "VS Code",
+    "Postman",
+    "Jupyter"
+  ],
+  "languages": [
+    "Python",
+    "JavaScript",
+    "TypeScript",
+    "SQL",
+    "Solidity"
+  ],
+  "experience": [
+    {
+      "title": "Open Source Contributor",
+      "company": "Various OSS Projects",
+      "duration": "2024 - Present",
+      "description": "Contributed to open-source projects in web development and ML tooling."
+    }
+  ],
+  "education": [
+    {
+      "degree": "B.Tech Computer Science (AI/ML Specialization)",
+      "institution": "Your University",
+      "year": "2024-2028",
+      "gpa": "8.5/10"
+    }
+  ],
+  "projects": [
+    {
+      "name": "AI Chatbot Platform",
+      "description": "Built a conversational AI platform using Python, FastAPI, and React with LLM integration.",
+      "tech": ["Python", "FastAPI", "React", "OpenAI API"]
+    },
+    {
+      "name": "Stock Price Predictor",
+      "description": "ML model for stock price prediction using LSTM networks and technical indicators.",
+      "tech": ["Python", "PyTorch", "Pandas", "scikit-learn"]
+    },
+    {
+      "name": "DeFi Dashboard",
+      "description": "Web3 dashboard for tracking DeFi protocol metrics and portfolio management.",
+      "tech": ["React", "Solidity", "Ethers.js", "Node.js"]
+    }
+  ],
+  "certifications": [
+    "AWS Cloud Practitioner",
+    "Google TensorFlow Developer Certificate"
+  ],
+  "target_roles": [
+    "Full-Stack Developer",
+    "Machine Learning Engineer",
+    "Data Scientist",
+    "FinTech Developer",
+    "Blockchain Developer",
+    "Data Analyst"
+  ]
+}

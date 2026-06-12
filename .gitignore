@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+venv/
+.venv/
+*.db
+*.sqlite3
+
+# Environment
+.env
+!.env.example
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Node
+node_modules/
+.cache/
+
+# Build
+frontend/dist/
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Jetro
+.jetro/
+.dist/
